@@ -128,19 +128,9 @@ These measurements demonstrate the potential of power gating to reduce power con
 - Implement layout design and post-layout simulation.
 - Extend the design to a complete SRAM memory array.
 
-## 11. Repository Contents
 
-- `LPVD_AAT_Report_Final (1).pdf` – Complete project report.
-- `README.md` – Project overview, implementation details, and simulation results.
-- `Screenshot 2026-11-08 203628.png` – Project simulation screenshot.
-- `Screenshot 2026-11-08 204815.png` – Project simulation screenshot.
-- `Screenshot 2026-11-08 205002.png` – Test bench configuration screenshot.
-- `Screenshot 2026-11-08 205142.png` – Project simulation screenshot.
-- `Screenshot 2026-11-08 205316.png` – Project simulation screenshot.
-- `Screenshot 2026-11-08 205539.png` – Project simulation screenshot.
-- `Screenshot 2026-11-08 205704.png` – Project simulation screenshot.
 
-## 12. Conclusion
+## 11. Conclusion
 
 This project demonstrates the design and simulation of a power-gated 6T SRAM cell using Cadence Virtuoso. By integrating PMOS header and NMOS footer sleep transistors, the design enables active and sleep mode operation.
 
